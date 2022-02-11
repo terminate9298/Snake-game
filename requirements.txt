@@ -20,7 +20,7 @@ opencv-python==4.1.0.25
 pandas==0.25.1
 Pillow==6.1.0
 pkg-resources==0.0.0
-protobuf==3.9.1
+protobuf==3.15.0
 pygame==1.9.6
 pylint==2.3.1
 pyparsing==2.4.2
